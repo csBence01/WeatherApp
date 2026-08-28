@@ -1,0 +1,10 @@
+# API kulcs - soha ne kerüljön GitHubra!
+.env
+
+# C++ build fájlok
+*.o
+*.obj
+*.exe
+*.out
+build/
+bin/

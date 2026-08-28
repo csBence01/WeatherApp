@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WeatherApp/WeatherApp.vcxproj" Id="440c6e62-f8fb-4c74-81fa-d6ea28391c34" />
+</Solution>
